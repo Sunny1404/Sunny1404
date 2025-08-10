@@ -1,5 +1,5 @@
 - 👋 Hi, I’m SOURAJYOTI GIRI
-- 🌱 I’m currently learning React And Javascript
+- 🌱 I’m eager to code and develop
 -     code to debug 
 - 📫 How to reach me ...Social media handles: Instagram 
 - 😄 Pronouns: ...
